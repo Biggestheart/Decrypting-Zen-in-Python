@@ -4,8 +4,4 @@ The sample content is coded with special case of Caesar cipher known as ROT13. F
 
 27 is greater than length of alphabet which is 26, so new character should be at position 27 - 26 = 1 which is 'a')
 
-I am posting a code tere that encrypts given sample text:
-
-https://code.sololearn.com/cTEs714ZqsFh/#py
-
-I can't insert code there because SoloLearn keeps deleting half of it :/
+This code encrypts the given sample text:
